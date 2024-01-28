@@ -45,7 +45,9 @@ Table of Content:
 .col-md-offset-right-1, .col-lg-offset-right-1 {
   margin-right: 8.33333333%;
 }
-
+body {
+  overflow-x: hidden;
+}
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .list_style {
