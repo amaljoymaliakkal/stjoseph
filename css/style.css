@@ -3886,3 +3886,8 @@ footer-distributed{
   border-radius: 19px !important;
 
 }
+@media (max-width: 576px) {
+.new-sec-f{
+  padding: 0px 0 70px 0px !important;
+}
+}
